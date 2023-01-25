@@ -12,6 +12,7 @@
 **Can you tell us more about . . .**
 
 * What is Grafana glue? 
+* [New User Onboarding](https://www.figma.com/file/y8CwLz66bWeiLbvMSrxSn8/Explore-New-User-Journey?node-id=0%3A1&t=RhZF9N0ATBVWhNbA-1) 
 
 **Community Forum Posts**
 
